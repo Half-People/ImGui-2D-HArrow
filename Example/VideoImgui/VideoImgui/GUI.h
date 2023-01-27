@@ -1,3 +1,4 @@
+// By HalfPeople Studio
 #pragma once
 #include "Imgui.h"
 #include <vector>
@@ -23,7 +24,7 @@ void InitGUI()
 //draw loop
 void DrawGUI()
 {
-	ImGui::Begin(u8"×÷˜IÓÃ");
+	ImGui::Begin(u8"Ã—Ã·ËœIÃ“Ãƒ");
 
 	ImGui::SetCursorPosX(ImGui::GetWindowSize().x - 250);
 	ImGui::SetNextItemWidth(150);
