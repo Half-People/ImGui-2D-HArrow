@@ -7,3 +7,5 @@ All ImGui content is written in `GUI.h`
 ![image](https://user-images.githubusercontent.com/56476339/215032123-ec101762-67ab-4763-b5a5-43c1993be809.png)
 
 `main.cpp` just performs the initialization operation
+
+![image](https://user-images.githubusercontent.com/56476339/215032425-bb2337cd-bba3-4892-a7af-1624fbc33c0e.png)
