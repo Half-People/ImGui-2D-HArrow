@@ -1,3 +1,4 @@
+// By HalfPeople Studio
 #pragma once
 #include <imgui_internal.h>
 
