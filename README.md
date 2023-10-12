@@ -8,7 +8,7 @@
 First you have to include HArrow.h and then add HArrow after the Widget you want to add Arrow
 
 example:
-```
+```cpp
 #include "HArrow.h"
 
 
